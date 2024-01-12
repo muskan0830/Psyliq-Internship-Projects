@@ -45,9 +45,5 @@
    - Established relationships and created calculated columns using DAX.
    - Visualized trends and performed analysis in Power BI, including Employee Attrition over the years.
 
-3. Data Analysis and Reporting:
-   - Addressed diverse questions, from data cleaning to creating hierarchies and parameterized queries.
-   - Demonstrated skills in performing What-If analysis and schema verification.
-
 ### Bonus:
 - Shared insights on creating a star schema and calculating rolling averages using DAX.
